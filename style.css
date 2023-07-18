@@ -56,17 +56,17 @@ body {
 }
 
 h1 {
-  font-family: 'Monoton', sans-serif;
+  font-family: 'Monoton', cursive;
   font-size: 10vw;
   color: red;
 }
 
 h2 {
-  font-family: 'Bangers', sans-serif;
+  font-family: 'Bangers', cursive;
   color: orange;
   font-size: 5vw;
 }
 
 h3 {
-  font-family: 'Bangers', sans-serif;
+  font-family: 'Bangers', cursive;
 }
