@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Bangers');
 
 body {
   margin: 0;
@@ -61,14 +61,14 @@ body {
 
 h1 {
   font-family: 'Monoton', sans-serif;
-  font-size: 70px;
+  font-size: 10vw;
   color: red;
 }
 
 h2 {
   font-family: 'Bangers', sans-serif;
   color: orange;
-  font-size: 40px;
+  font-size: 5vw;
 }
 
 h3 {
