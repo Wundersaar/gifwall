@@ -27,7 +27,8 @@ body {
       transition: all 0.2s ease-out;
       
          &:hover {
-          filter: brightness(50%);
+          border: 10px;
+          border-color: white;
       }
     }
      
